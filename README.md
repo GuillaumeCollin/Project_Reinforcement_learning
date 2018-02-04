@@ -1,2 +1,2 @@
 # Project_Reinforcement_learning
-Implementation of an artical
+Implementation of an article
