@@ -1,5 +1,20 @@
 # Utilisation de OpenAI Gym pour avoir l'agent
-
+import sys
+sys.path=['',
+ '/opt/anaconda2/lib/python27.zip',
+ '/opt/anaconda2/lib/python2.7',
+ '/opt/anaconda2/lib/python2.7/plat-linux2',
+ '/opt/anaconda2/lib/python2.7/lib-tk',
+ '/opt/anaconda2/lib/python2.7/lib-old',
+ '/opt/anaconda2/lib/python2.7/lib-dynload',
+ '/opt/anaconda2/lib/python2.7/site-packages',
+ '/opt/anaconda2/lib/python2.7/site-packages/Sphinx-1.5.1-py2.7.egg',
+ '/opt/anaconda2/lib/python2.7/site-packages/biopython-1.69-py2.7-linux-x86_64.egg',
+ '/opt/anaconda2/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg',
+ '/opt/anaconda2/lib/python2.7/site-packages/IPython/extensions',
+ '/home/tp-home001/gcolli2/.ipython'
+          ]
+ 
 import gym
 import time
 from DQL import DQLAgent
