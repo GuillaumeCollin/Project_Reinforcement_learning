@@ -22,7 +22,7 @@ if __name__ == '__main__':
     history = [0, 0, 0, 0]
     save_models_each = 300
     restart = True
-    no_training_steps = 100000
+    no_training_steps = 50000
     allow_replay = False
     load_model_from_file = file
     average_score = 0
@@ -30,7 +30,7 @@ if __name__ == '__main__':
     repeat_action = 4
 
     if not restart:
-        # On charge le dernier modèle
+        # On charge le dernier modele
         agent.continue_model(load_model_from_file)
         # Et les resultats
         save_average_score = pd.read_csv('output/' + file + '.csv')
@@ -44,7 +44,7 @@ if __name__ == '__main__':
         history = np.stack((state,state,state,state),axis=0)
         compteur = 0
         score = 0
-        done = True
+        done = False
         prepross_history = preprocess(history)
         while not done:
             compteur += 1
@@ -80,9 +80,9 @@ if __name__ == '__main__':
         average_score += score
         if episode % save_models_each == 0 and episode != 0:
             agent.save('output/backup.h5')
-            list_average_score.append((nb_episode, average_score / 1000))
+            list_average_score.append((nb_episode, average_score / save_models_each))
             average_score = 0
-            print('Le score moyen sur les 1000 derniers episode etait {}'.format(average_score))
+            print('Le score moyen sur les {} derniers episode etait {}'.format(save_models_each,average_score))
         if no_training_steps > 0:
             no_training_steps -= compteur
         else:
