@@ -65,8 +65,7 @@ class DQLAgent:
                 y = reward + self.gamma * np.amax(self.model.predict(np.array(next_state)))
             y_cible = self.model.predict(state)
             y_cible[0][action] = y
-            self.model.fit(state, y_cible, epochs=1, verbose=0)
-
+            self.model.train_on_batch(state, y_cible)
 
     def save(self, path):
         self.model.save(path)
