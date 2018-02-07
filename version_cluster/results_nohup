@@ -1,0 +1,2026 @@
+Using TensorFlow backend.
+RuntimeError: module compiled against API version 0xb but this version of numpy is 0xa
+RuntimeError: module compiled against API version 0xb but this version of numpy is 0xa
+Debut du 0 episode
+Agent has reached the end in 356 steps with score 3.0
+2018-02-07 11:21:37.603098: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+Le score moyen sur les 1000 derniers episode etait 0
+Debut du 1 episode
+Agent has reached the end in 271 steps with score 2.0
+Debut du 2 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 3 episode
+Agent has reached the end in 251 steps with score 1.0
+Debut du 4 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 5 episode
+Agent has reached the end in 162 steps with score 0.0
+Debut du 6 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 7 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 8 episode
+Agent has reached the end in 260 steps with score 2.0
+Debut du 9 episode
+Agent has reached the end in 295 steps with score 2.0
+Debut du 10 episode
+Agent has reached the end in 264 steps with score 1.0
+Debut du 11 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 12 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 13 episode
+Agent has reached the end in 162 steps with score 0.0
+Debut du 14 episode
+Agent has reached the end in 401 steps with score 4.0
+Debut du 15 episode
+Agent has reached the end in 335 steps with score 3.0
+Debut du 16 episode
+Agent has reached the end in 307 steps with score 2.0
+Debut du 17 episode
+Agent has reached the end in 224 steps with score 1.0
+Debut du 18 episode
+Agent has reached the end in 294 steps with score 2.0
+Debut du 19 episode
+Agent has reached the end in 284 steps with score 2.0
+Debut du 20 episode
+Agent has reached the end in 310 steps with score 2.0
+Debut du 21 episode
+Agent has reached the end in 238 steps with score 1.0
+Debut du 22 episode
+Agent has reached the end in 205 steps with score 1.0
+Debut du 23 episode
+Agent has reached the end in 261 steps with score 1.0
+Debut du 24 episode
+Agent has reached the end in 223 steps with score 1.0
+Debut du 25 episode
+Agent has reached the end in 270 steps with score 2.0
+Debut du 26 episode
+Agent has reached the end in 237 steps with score 1.0
+Debut du 27 episode
+Agent has reached the end in 227 steps with score 1.0
+Debut du 28 episode
+Agent has reached the end in 207 steps with score 1.0
+Debut du 29 episode
+Agent has reached the end in 351 steps with score 3.0
+Debut du 30 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 31 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 32 episode
+Agent has reached the end in 188 steps with score 0.0
+Debut du 33 episode
+Agent has reached the end in 231 steps with score 1.0
+Debut du 34 episode
+Agent has reached the end in 276 steps with score 2.0
+Debut du 35 episode
+Agent has reached the end in 313 steps with score 3.0
+Debut du 36 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 37 episode
+Agent has reached the end in 231 steps with score 1.0
+Debut du 38 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 39 episode
+Agent has reached the end in 426 steps with score 7.0
+Debut du 40 episode
+Agent has reached the end in 373 steps with score 3.0
+Debut du 41 episode
+Agent has reached the end in 239 steps with score 1.0
+Debut du 42 episode
+Agent has reached the end in 242 steps with score 1.0
+Debut du 43 episode
+Agent has reached the end in 183 steps with score 0.0
+Debut du 44 episode
+Agent has reached the end in 354 steps with score 3.0
+Debut du 45 episode
+Agent has reached the end in 212 steps with score 1.0
+Debut du 46 episode
+Agent has reached the end in 313 steps with score 3.0
+Debut du 47 episode
+Agent has reached the end in 355 steps with score 3.0
+Debut du 48 episode
+Agent has reached the end in 202 steps with score 0.0
+Debut du 49 episode
+Agent has reached the end in 237 steps with score 1.0
+Debut du 50 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 51 episode
+Agent has reached the end in 209 steps with score 1.0
+Debut du 52 episode
+Agent has reached the end in 185 steps with score 0.0
+Debut du 53 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 54 episode
+Agent has reached the end in 320 steps with score 3.0
+Debut du 55 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 56 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 57 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 58 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 59 episode
+Agent has reached the end in 290 steps with score 2.0
+Debut du 60 episode
+Agent has reached the end in 213 steps with score 1.0
+Debut du 61 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 62 episode
+Agent has reached the end in 268 steps with score 2.0
+Debut du 63 episode
+Agent has reached the end in 243 steps with score 1.0
+Debut du 64 episode
+Agent has reached the end in 346 steps with score 3.0
+Debut du 65 episode
+Agent has reached the end in 166 steps with score 0.0
+Debut du 66 episode
+Agent has reached the end in 218 steps with score 1.0
+Debut du 67 episode
+Agent has reached the end in 247 steps with score 1.0
+Debut du 68 episode
+Agent has reached the end in 218 steps with score 1.0
+Debut du 69 episode
+Agent has reached the end in 315 steps with score 3.0
+Debut du 70 episode
+Agent has reached the end in 219 steps with score 1.0
+Debut du 71 episode
+Agent has reached the end in 186 steps with score 0.0
+Debut du 72 episode
+Agent has reached the end in 274 steps with score 2.0
+Debut du 73 episode
+Agent has reached the end in 247 steps with score 1.0
+Debut du 74 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 75 episode
+Agent has reached the end in 228 steps with score 1.0
+Debut du 76 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 77 episode
+Agent has reached the end in 225 steps with score 1.0
+Debut du 78 episode
+Agent has reached the end in 183 steps with score 0.0
+Debut du 79 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 80 episode
+Agent has reached the end in 206 steps with score 1.0
+Debut du 81 episode
+Agent has reached the end in 221 steps with score 1.0
+Debut du 82 episode
+Agent has reached the end in 360 steps with score 4.0
+Debut du 83 episode
+Agent has reached the end in 231 steps with score 1.0
+Debut du 84 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 85 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 86 episode
+Agent has reached the end in 269 steps with score 2.0
+Debut du 87 episode
+Agent has reached the end in 214 steps with score 1.0
+Debut du 88 episode
+Agent has reached the end in 292 steps with score 2.0
+Debut du 89 episode
+Agent has reached the end in 177 steps with score 0.0
+Debut du 90 episode
+Agent has reached the end in 163 steps with score 0.0
+Debut du 91 episode
+Agent has reached the end in 234 steps with score 1.0
+Debut du 92 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 93 episode
+Agent has reached the end in 279 steps with score 2.0
+Debut du 94 episode
+Agent has reached the end in 315 steps with score 3.0
+Debut du 95 episode
+Agent has reached the end in 308 steps with score 2.0
+Debut du 96 episode
+Agent has reached the end in 321 steps with score 3.0
+Debut du 97 episode
+Agent has reached the end in 231 steps with score 1.0
+Debut du 98 episode
+Agent has reached the end in 232 steps with score 1.0
+Debut du 99 episode
+Agent has reached the end in 329 steps with score 3.0
+Debut du 100 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 101 episode
+Agent has reached the end in 299 steps with score 2.0
+Debut du 102 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 103 episode
+Agent has reached the end in 333 steps with score 2.0
+Debut du 104 episode
+Agent has reached the end in 287 steps with score 2.0
+Debut du 105 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 106 episode
+Agent has reached the end in 244 steps with score 1.0
+Debut du 107 episode
+Agent has reached the end in 403 steps with score 4.0
+Debut du 108 episode
+Agent has reached the end in 215 steps with score 1.0
+Debut du 109 episode
+Agent has reached the end in 266 steps with score 2.0
+Debut du 110 episode
+Agent has reached the end in 278 steps with score 2.0
+Debut du 111 episode
+Agent has reached the end in 238 steps with score 1.0
+Debut du 112 episode
+Agent has reached the end in 285 steps with score 2.0
+Debut du 113 episode
+Agent has reached the end in 327 steps with score 3.0
+Debut du 114 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 115 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 116 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 117 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 118 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 119 episode
+Agent has reached the end in 234 steps with score 1.0
+Debut du 120 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 121 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 122 episode
+Agent has reached the end in 278 steps with score 2.0
+Debut du 123 episode
+Agent has reached the end in 232 steps with score 1.0
+Debut du 124 episode
+Agent has reached the end in 424 steps with score 4.0
+Debut du 125 episode
+Agent has reached the end in 289 steps with score 2.0
+Debut du 126 episode
+Agent has reached the end in 297 steps with score 2.0
+Debut du 127 episode
+Agent has reached the end in 166 steps with score 0.0
+Debut du 128 episode
+Agent has reached the end in 239 steps with score 1.0
+Debut du 129 episode
+Agent has reached the end in 339 steps with score 3.0
+Debut du 130 episode
+Agent has reached the end in 334 steps with score 3.0
+Debut du 131 episode
+Agent has reached the end in 284 steps with score 2.0
+Debut du 132 episode
+Agent has reached the end in 435 steps with score 5.0
+Debut du 133 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 134 episode
+Agent has reached the end in 238 steps with score 1.0
+Debut du 135 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 136 episode
+Agent has reached the end in 324 steps with score 2.0
+Debut du 137 episode
+Agent has reached the end in 282 steps with score 2.0
+Debut du 138 episode
+Agent has reached the end in 182 steps with score 0.0
+Debut du 139 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 140 episode
+Agent has reached the end in 358 steps with score 3.0
+Debut du 141 episode
+Agent has reached the end in 198 steps with score 1.0
+Debut du 142 episode
+Agent has reached the end in 243 steps with score 1.0
+Debut du 143 episode
+Agent has reached the end in 328 steps with score 3.0
+Debut du 144 episode
+Agent has reached the end in 248 steps with score 2.0
+Debut du 145 episode
+Agent has reached the end in 317 steps with score 3.0
+Debut du 146 episode
+Agent has reached the end in 208 steps with score 1.0
+Debut du 147 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 148 episode
+Agent has reached the end in 357 steps with score 3.0
+Debut du 149 episode
+Agent has reached the end in 282 steps with score 2.0
+Debut du 150 episode
+Agent has reached the end in 268 steps with score 2.0
+Debut du 151 episode
+Agent has reached the end in 360 steps with score 3.0
+Debut du 152 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 153 episode
+Agent has reached the end in 186 steps with score 0.0
+Debut du 154 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 155 episode
+Agent has reached the end in 312 steps with score 2.0
+Debut du 156 episode
+Agent has reached the end in 186 steps with score 0.0
+Debut du 157 episode
+Agent has reached the end in 275 steps with score 2.0
+Debut du 158 episode
+Agent has reached the end in 287 steps with score 2.0
+Debut du 159 episode
+Agent has reached the end in 237 steps with score 1.0
+Debut du 160 episode
+Agent has reached the end in 217 steps with score 1.0
+Debut du 161 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 162 episode
+Agent has reached the end in 224 steps with score 1.0
+Debut du 163 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 164 episode
+Agent has reached the end in 189 steps with score 0.0
+Debut du 165 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 166 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 167 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 168 episode
+Agent has reached the end in 182 steps with score 0.0
+Debut du 169 episode
+Agent has reached the end in 204 steps with score 1.0
+Debut du 170 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 171 episode
+Agent has reached the end in 392 steps with score 4.0
+Debut du 172 episode
+Agent has reached the end in 223 steps with score 1.0
+Debut du 173 episode
+Agent has reached the end in 428 steps with score 5.0
+Debut du 174 episode
+Agent has reached the end in 273 steps with score 2.0
+Debut du 175 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 176 episode
+Agent has reached the end in 242 steps with score 1.0
+Debut du 177 episode
+Agent has reached the end in 415 steps with score 4.0
+Debut du 178 episode
+Agent has reached the end in 263 steps with score 1.0
+Debut du 179 episode
+Agent has reached the end in 285 steps with score 2.0
+Debut du 180 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 181 episode
+Agent has reached the end in 237 steps with score 1.0
+Debut du 182 episode
+Agent has reached the end in 416 steps with score 4.0
+Debut du 183 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 184 episode
+Agent has reached the end in 395 steps with score 4.0
+Debut du 185 episode
+Agent has reached the end in 374 steps with score 4.0
+Debut du 186 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 187 episode
+Agent has reached the end in 301 steps with score 2.0
+Debut du 188 episode
+Agent has reached the end in 230 steps with score 1.0
+Debut du 189 episode
+Agent has reached the end in 346 steps with score 3.0
+Debut du 190 episode
+Agent has reached the end in 304 steps with score 3.0
+Debut du 191 episode
+Agent has reached the end in 250 steps with score 1.0
+Debut du 192 episode
+Agent has reached the end in 164 steps with score 0.0
+Debut du 193 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 194 episode
+Agent has reached the end in 271 steps with score 2.0
+Debut du 195 episode
+Agent has reached the end in 269 steps with score 2.0
+Debut du 196 episode
+Agent has reached the end in 424 steps with score 4.0
+Debut du 197 episode
+Agent has reached the end in 261 steps with score 2.0
+Debut du 198 episode
+Agent has reached the end in 227 steps with score 1.0
+Debut du 199 episode
+Agent has reached the end in 217 steps with score 1.0
+Debut du 200 episode
+Agent has reached the end in 344 steps with score 3.0
+Debut du 201 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 202 episode
+Agent has reached the end in 296 steps with score 2.0
+Debut du 203 episode
+Agent has reached the end in 282 steps with score 2.0
+Debut du 204 episode
+Agent has reached the end in 358 steps with score 3.0
+Debut du 205 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 206 episode
+Agent has reached the end in 222 steps with score 1.0
+Debut du 207 episode
+Agent has reached the end in 188 steps with score 0.0
+Debut du 208 episode
+Agent has reached the end in 275 steps with score 2.0
+Debut du 209 episode
+Agent has reached the end in 246 steps with score 1.0
+Debut du 210 episode
+Agent has reached the end in 230 steps with score 1.0
+Debut du 211 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 212 episode
+Agent has reached the end in 177 steps with score 0.0
+Debut du 213 episode
+Agent has reached the end in 208 steps with score 1.0
+Debut du 214 episode
+Agent has reached the end in 227 steps with score 1.0
+Debut du 215 episode
+Agent has reached the end in 385 steps with score 3.0
+Debut du 216 episode
+Agent has reached the end in 427 steps with score 5.0
+Debut du 217 episode
+Agent has reached the end in 251 steps with score 2.0
+Debut du 218 episode
+Agent has reached the end in 167 steps with score 0.0
+Debut du 219 episode
+Agent has reached the end in 189 steps with score 0.0
+Debut du 220 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 221 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 222 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 223 episode
+Agent has reached the end in 281 steps with score 2.0
+Debut du 224 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 225 episode
+Agent has reached the end in 247 steps with score 1.0
+Debut du 226 episode
+Agent has reached the end in 202 steps with score 1.0
+Debut du 227 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 228 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 229 episode
+Agent has reached the end in 164 steps with score 0.0
+Debut du 230 episode
+Agent has reached the end in 239 steps with score 1.0
+Debut du 231 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 232 episode
+Agent has reached the end in 371 steps with score 4.0
+Debut du 233 episode
+Agent has reached the end in 227 steps with score 1.0
+Debut du 234 episode
+Agent has reached the end in 270 steps with score 2.0
+Debut du 235 episode
+Agent has reached the end in 256 steps with score 2.0
+Debut du 236 episode
+Agent has reached the end in 246 steps with score 1.0
+Debut du 237 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 238 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 239 episode
+Agent has reached the end in 251 steps with score 1.0
+Debut du 240 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 241 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 242 episode
+Agent has reached the end in 559 steps with score 7.0
+Debut du 243 episode
+Agent has reached the end in 286 steps with score 2.0
+Debut du 244 episode
+Agent has reached the end in 188 steps with score 0.0
+Debut du 245 episode
+Agent has reached the end in 244 steps with score 1.0
+Debut du 246 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 247 episode
+Agent has reached the end in 364 steps with score 4.0
+Debut du 248 episode
+Agent has reached the end in 279 steps with score 2.0
+Debut du 249 episode
+Agent has reached the end in 215 steps with score 1.0
+Debut du 250 episode
+Agent has reached the end in 423 steps with score 4.0
+Debut du 251 episode
+Agent has reached the end in 351 steps with score 3.0
+Debut du 252 episode
+Agent has reached the end in 248 steps with score 2.0
+Debut du 253 episode
+Agent has reached the end in 381 steps with score 3.0
+Debut du 254 episode
+Agent has reached the end in 372 steps with score 3.0
+Debut du 255 episode
+Agent has reached the end in 161 steps with score 0.0
+Debut du 256 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 257 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 258 episode
+Agent has reached the end in 218 steps with score 1.0
+Debut du 259 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 260 episode
+Agent has reached the end in 247 steps with score 1.0
+Debut du 261 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 262 episode
+Agent has reached the end in 342 steps with score 3.0
+Debut du 263 episode
+Agent has reached the end in 244 steps with score 1.0
+Debut du 264 episode
+Agent has reached the end in 295 steps with score 2.0
+Debut du 265 episode
+Agent has reached the end in 230 steps with score 1.0
+Debut du 266 episode
+Agent has reached the end in 164 steps with score 0.0
+Debut du 267 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 268 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 269 episode
+Agent has reached the end in 227 steps with score 1.0
+Debut du 270 episode
+Agent has reached the end in 290 steps with score 2.0
+Debut du 271 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 272 episode
+Agent has reached the end in 222 steps with score 1.0
+Debut du 273 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 274 episode
+Agent has reached the end in 246 steps with score 1.0
+Debut du 275 episode
+Agent has reached the end in 380 steps with score 4.0
+Debut du 276 episode
+Agent has reached the end in 335 steps with score 3.0
+Debut du 277 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 278 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 279 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 280 episode
+Agent has reached the end in 326 steps with score 3.0
+Debut du 281 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 282 episode
+Agent has reached the end in 339 steps with score 3.0
+Debut du 283 episode
+Agent has reached the end in 295 steps with score 2.0
+Debut du 284 episode
+Agent has reached the end in 161 steps with score 0.0
+Debut du 285 episode
+Agent has reached the end in 343 steps with score 3.0
+Debut du 286 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 287 episode
+Agent has reached the end in 342 steps with score 3.0
+Debut du 288 episode
+Agent has reached the end in 373 steps with score 3.0
+Debut du 289 episode
+Agent has reached the end in 165 steps with score 0.0
+Debut du 290 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 291 episode
+Agent has reached the end in 228 steps with score 1.0
+Debut du 292 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 293 episode
+Agent has reached the end in 286 steps with score 2.0
+Debut du 294 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 295 episode
+Agent has reached the end in 161 steps with score 0.0
+Debut du 296 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 297 episode
+Agent has reached the end in 403 steps with score 4.0
+Debut du 298 episode
+Agent has reached the end in 240 steps with score 1.0
+Debut du 299 episode
+Agent has reached the end in 232 steps with score 1.0
+Debut du 300 episode
+Agent has reached the end in 373 steps with score 4.0
+Debut du 301 episode
+Agent has reached the end in 227 steps with score 1.0
+Debut du 302 episode
+Agent has reached the end in 294 steps with score 2.0
+Debut du 303 episode
+Agent has reached the end in 221 steps with score 1.0
+Debut du 304 episode
+Agent has reached the end in 245 steps with score 1.0
+Debut du 305 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 306 episode
+Agent has reached the end in 226 steps with score 1.0
+Debut du 307 episode
+Agent has reached the end in 311 steps with score 2.0
+Debut du 308 episode
+Agent has reached the end in 230 steps with score 1.0
+Debut du 309 episode
+Agent has reached the end in 296 steps with score 2.0
+Debut du 310 episode
+Agent has reached the end in 292 steps with score 2.0
+Debut du 311 episode
+Agent has reached the end in 269 steps with score 2.0
+Debut du 312 episode
+Agent has reached the end in 361 steps with score 3.0
+Debut du 313 episode
+Agent has reached the end in 278 steps with score 2.0
+Debut du 314 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 315 episode
+Agent has reached the end in 212 steps with score 1.0
+Debut du 316 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 317 episode
+Agent has reached the end in 283 steps with score 2.0
+Debut du 318 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 319 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 320 episode
+Agent has reached the end in 228 steps with score 1.0
+Debut du 321 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 322 episode
+Agent has reached the end in 314 steps with score 2.0
+Debut du 323 episode
+Agent has reached the end in 359 steps with score 3.0
+Debut du 324 episode
+Agent has reached the end in 361 steps with score 4.0
+Debut du 325 episode
+Agent has reached the end in 388 steps with score 4.0
+Debut du 326 episode
+Agent has reached the end in 316 steps with score 3.0
+Debut du 327 episode
+Agent has reached the end in 233 steps with score 1.0
+Debut du 328 episode
+Agent has reached the end in 274 steps with score 2.0
+Debut du 329 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 330 episode
+Agent has reached the end in 352 steps with score 4.0
+Debut du 331 episode
+Agent has reached the end in 215 steps with score 1.0
+Debut du 332 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 333 episode
+Agent has reached the end in 406 steps with score 4.0
+Debut du 334 episode
+Agent has reached the end in 329 steps with score 3.0
+Debut du 335 episode
+Agent has reached the end in 177 steps with score 0.0
+Debut du 336 episode
+Agent has reached the end in 171 steps with score 0.0
+Debut du 337 episode
+Agent has reached the end in 313 steps with score 2.0
+Debut du 338 episode
+Agent has reached the end in 307 steps with score 3.0
+Debut du 339 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 340 episode
+Agent has reached the end in 302 steps with score 2.0
+Debut du 341 episode
+Agent has reached the end in 233 steps with score 1.0
+Debut du 342 episode
+Agent has reached the end in 208 steps with score 1.0
+Debut du 343 episode
+Agent has reached the end in 267 steps with score 2.0
+Debut du 344 episode
+Agent has reached the end in 268 steps with score 2.0
+Debut du 345 episode
+Agent has reached the end in 271 steps with score 2.0
+Debut du 346 episode
+Agent has reached the end in 189 steps with score 0.0
+Debut du 347 episode
+Agent has reached the end in 242 steps with score 1.0
+Debut du 348 episode
+Agent has reached the end in 342 steps with score 3.0
+Debut du 349 episode
+Agent has reached the end in 233 steps with score 1.0
+Debut du 350 episode
+Agent has reached the end in 324 steps with score 3.0
+Debut du 351 episode
+Agent has reached the end in 177 steps with score 0.0
+Debut du 352 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 353 episode
+Agent has reached the end in 219 steps with score 1.0
+Debut du 354 episode
+Agent has reached the end in 349 steps with score 4.0
+Debut du 355 episode
+Agent has reached the end in 274 steps with score 2.0
+Debut du 356 episode
+Agent has reached the end in 177 steps with score 0.0
+Debut du 357 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 358 episode
+Agent has reached the end in 460 steps with score 5.0
+Debut du 359 episode
+Agent has reached the end in 167 steps with score 0.0
+Debut du 360 episode
+Agent has reached the end in 237 steps with score 1.0
+Debut du 361 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 362 episode
+Agent has reached the end in 229 steps with score 1.0
+Debut du 363 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 364 episode
+Agent has reached the end in 167 steps with score 0.0
+Debut du 365 episode
+Agent has reached the end in 251 steps with score 1.0
+Debut du 366 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 367 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 368 episode
+Agent has reached the end in 341 steps with score 3.0
+Debut du 369 episode
+Agent has reached the end in 201 steps with score 1.0
+Debut du 370 episode
+Agent has reached the end in 318 steps with score 3.0
+Debut du 371 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 372 episode
+Agent has reached the end in 337 steps with score 3.0
+Debut du 373 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 374 episode
+Agent has reached the end in 381 steps with score 4.0
+Debut du 375 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 376 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 377 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 378 episode
+Agent has reached the end in 185 steps with score 0.0
+Debut du 379 episode
+Agent has reached the end in 184 steps with score 0.0
+Debut du 380 episode
+Agent has reached the end in 296 steps with score 3.0
+Debut du 381 episode
+Agent has reached the end in 224 steps with score 1.0
+Debut du 382 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 383 episode
+Agent has reached the end in 230 steps with score 1.0
+Debut du 384 episode
+Agent has reached the end in 283 steps with score 2.0
+Debut du 385 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 386 episode
+Agent has reached the end in 378 steps with score 4.0
+Debut du 387 episode
+Agent has reached the end in 159 steps with score 0.0
+Debut du 388 episode
+Agent has reached the end in 212 steps with score 1.0
+Debut du 389 episode
+Agent has reached the end in 229 steps with score 1.0
+Debut du 390 episode
+Agent has reached the end in 312 steps with score 2.0
+Debut du 391 episode
+Agent has reached the end in 262 steps with score 1.0
+Debut du 392 episode
+Agent has reached the end in 166 steps with score 0.0
+Debut du 393 episode
+Agent has reached the end in 275 steps with score 2.0
+Debut du 394 episode
+Agent has reached the end in 350 steps with score 3.0
+Debut du 395 episode
+Agent has reached the end in 214 steps with score 1.0
+Debut du 396 episode
+Agent has reached the end in 472 steps with score 5.0
+Debut du 397 episode
+Agent has reached the end in 206 steps with score 1.0
+Debut du 398 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 399 episode
+Agent has reached the end in 269 steps with score 2.0
+Debut du 400 episode
+Agent has reached the end in 361 steps with score 3.0
+Debut du 401 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 402 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 403 episode
+Agent has reached the end in 197 steps with score 0.0
+Debut du 404 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 405 episode
+Agent has reached the end in 218 steps with score 1.0
+Debut du 406 episode
+Agent has reached the end in 263 steps with score 2.0
+Debut du 407 episode
+Agent has reached the end in 281 steps with score 2.0
+Debut du 408 episode
+Agent has reached the end in 206 steps with score 1.0
+Debut du 409 episode
+Agent has reached the end in 260 steps with score 2.0
+Debut du 410 episode
+Agent has reached the end in 249 steps with score 1.0
+Debut du 411 episode
+Agent has reached the end in 165 steps with score 0.0
+Debut du 412 episode
+Agent has reached the end in 304 steps with score 2.0
+Debut du 413 episode
+Agent has reached the end in 353 steps with score 3.0
+Debut du 414 episode
+Agent has reached the end in 433 steps with score 7.0
+Debut du 415 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 416 episode
+Agent has reached the end in 182 steps with score 0.0
+Debut du 417 episode
+Agent has reached the end in 184 steps with score 0.0
+Debut du 418 episode
+Agent has reached the end in 388 steps with score 4.0
+Debut du 419 episode
+Agent has reached the end in 162 steps with score 0.0
+Debut du 420 episode
+Agent has reached the end in 208 steps with score 1.0
+Debut du 421 episode
+Agent has reached the end in 237 steps with score 1.0
+Debut du 422 episode
+Agent has reached the end in 260 steps with score 1.0
+Debut du 423 episode
+Agent has reached the end in 185 steps with score 0.0
+Debut du 424 episode
+Agent has reached the end in 221 steps with score 1.0
+Debut du 425 episode
+Agent has reached the end in 313 steps with score 3.0
+Debut du 426 episode
+Agent has reached the end in 215 steps with score 1.0
+Debut du 427 episode
+Agent has reached the end in 290 steps with score 2.0
+Debut du 428 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 429 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 430 episode
+Agent has reached the end in 253 steps with score 1.0
+Debut du 431 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 432 episode
+Agent has reached the end in 351 steps with score 3.0
+Debut du 433 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 434 episode
+Agent has reached the end in 349 steps with score 3.0
+Debut du 435 episode
+Agent has reached the end in 317 steps with score 2.0
+Debut du 436 episode
+Agent has reached the end in 271 steps with score 2.0
+Debut du 437 episode
+Agent has reached the end in 260 steps with score 1.0
+Debut du 438 episode
+Agent has reached the end in 359 steps with score 4.0
+Debut du 439 episode
+Agent has reached the end in 225 steps with score 1.0
+Debut du 440 episode
+Agent has reached the end in 271 steps with score 2.0
+Debut du 441 episode
+Agent has reached the end in 195 steps with score 0.0
+Debut du 442 episode
+Agent has reached the end in 217 steps with score 1.0
+Debut du 443 episode
+Agent has reached the end in 166 steps with score 0.0
+Debut du 444 episode
+Agent has reached the end in 162 steps with score 0.0
+Debut du 445 episode
+Agent has reached the end in 161 steps with score 0.0
+Debut du 446 episode
+Agent has reached the end in 243 steps with score 1.0
+Debut du 447 episode
+Agent has reached the end in 400 steps with score 4.0
+Debut du 448 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 449 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 450 episode
+Agent has reached the end in 487 steps with score 5.0
+Debut du 451 episode
+Agent has reached the end in 316 steps with score 2.0
+Debut du 452 episode
+Agent has reached the end in 211 steps with score 1.0
+Debut du 453 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 454 episode
+Agent has reached the end in 171 steps with score 0.0
+Debut du 455 episode
+Agent has reached the end in 171 steps with score 0.0
+Debut du 456 episode
+Agent has reached the end in 282 steps with score 2.0
+Debut du 457 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 458 episode
+Agent has reached the end in 460 steps with score 5.0
+Debut du 459 episode
+Agent has reached the end in 217 steps with score 1.0
+Debut du 460 episode
+Agent has reached the end in 209 steps with score 1.0
+Debut du 461 episode
+Agent has reached the end in 165 steps with score 0.0
+Debut du 462 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 463 episode
+Agent has reached the end in 528 steps with score 6.0
+Debut du 464 episode
+Agent has reached the end in 371 steps with score 4.0
+Debut du 465 episode
+Agent has reached the end in 193 steps with score 0.0
+Debut du 466 episode
+Agent has reached the end in 248 steps with score 1.0
+Debut du 467 episode
+Agent has reached the end in 167 steps with score 0.0
+Debut du 468 episode
+Agent has reached the end in 243 steps with score 1.0
+Debut du 469 episode
+Agent has reached the end in 218 steps with score 1.0
+Debut du 470 episode
+Agent has reached the end in 164 steps with score 0.0
+Debut du 471 episode
+Agent has reached the end in 218 steps with score 1.0
+Debut du 472 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 473 episode
+Agent has reached the end in 184 steps with score 0.0
+Debut du 474 episode
+Agent has reached the end in 294 steps with score 2.0
+Debut du 475 episode
+Agent has reached the end in 234 steps with score 1.0
+Debut du 476 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 477 episode
+Agent has reached the end in 273 steps with score 2.0
+Debut du 478 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 479 episode
+Agent has reached the end in 229 steps with score 1.0
+Debut du 480 episode
+Agent has reached the end in 216 steps with score 1.0
+Debut du 481 episode
+Agent has reached the end in 196 steps with score 0.0
+Debut du 482 episode
+Agent has reached the end in 278 steps with score 2.0
+Debut du 483 episode
+Agent has reached the end in 279 steps with score 2.0
+Debut du 484 episode
+Agent has reached the end in 349 steps with score 3.0
+Debut du 485 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 486 episode
+Agent has reached the end in 245 steps with score 1.0
+Debut du 487 episode
+Agent has reached the end in 252 steps with score 1.0
+Debut du 488 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 489 episode
+Agent has reached the end in 249 steps with score 1.0
+Debut du 490 episode
+Agent has reached the end in 318 steps with score 2.0
+Debut du 491 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 492 episode
+Agent has reached the end in 224 steps with score 1.0
+Debut du 493 episode
+Agent has reached the end in 232 steps with score 1.0
+Debut du 494 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 495 episode
+Agent has reached the end in 270 steps with score 2.0
+Debut du 496 episode
+Agent has reached the end in 197 steps with score 0.0
+Debut du 497 episode
+Agent has reached the end in 216 steps with score 1.0
+Debut du 498 episode
+Agent has reached the end in 416 steps with score 4.0
+Debut du 499 episode
+Agent has reached the end in 171 steps with score 0.0
+Debut du 500 episode
+Agent has reached the end in 222 steps with score 1.0
+Debut du 501 episode
+Agent has reached the end in 189 steps with score 0.0
+Debut du 502 episode
+Agent has reached the end in 312 steps with score 2.0
+Debut du 503 episode
+Agent has reached the end in 191 steps with score 0.0
+Debut du 504 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 505 episode
+Agent has reached the end in 205 steps with score 1.0
+Debut du 506 episode
+Agent has reached the end in 402 steps with score 4.0
+Debut du 507 episode
+Agent has reached the end in 415 steps with score 5.0
+Debut du 508 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 509 episode
+Agent has reached the end in 198 steps with score 1.0
+Debut du 510 episode
+Agent has reached the end in 191 steps with score 0.0
+Debut du 511 episode
+Agent has reached the end in 229 steps with score 1.0
+Debut du 512 episode
+Agent has reached the end in 244 steps with score 2.0
+Debut du 513 episode
+Agent has reached the end in 203 steps with score 1.0
+Debut du 514 episode
+Agent has reached the end in 333 steps with score 3.0
+Debut du 515 episode
+Agent has reached the end in 311 steps with score 2.0
+Debut du 516 episode
+Agent has reached the end in 242 steps with score 1.0
+Debut du 517 episode
+Agent has reached the end in 263 steps with score 2.0
+Debut du 518 episode
+Agent has reached the end in 302 steps with score 2.0
+Debut du 519 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 520 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 521 episode
+Agent has reached the end in 359 steps with score 3.0
+Debut du 522 episode
+Agent has reached the end in 232 steps with score 1.0
+Debut du 523 episode
+Agent has reached the end in 305 steps with score 2.0
+Debut du 524 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 525 episode
+Agent has reached the end in 189 steps with score 0.0
+Debut du 526 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 527 episode
+Agent has reached the end in 470 steps with score 5.0
+Debut du 528 episode
+Agent has reached the end in 171 steps with score 0.0
+Debut du 529 episode
+Agent has reached the end in 192 steps with score 0.0
+Debut du 530 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 531 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 532 episode
+Agent has reached the end in 212 steps with score 1.0
+Debut du 533 episode
+Agent has reached the end in 398 steps with score 4.0
+Debut du 534 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 535 episode
+Agent has reached the end in 389 steps with score 4.0
+Debut du 536 episode
+Agent has reached the end in 270 steps with score 2.0
+Debut du 537 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 538 episode
+Agent has reached the end in 409 steps with score 4.0
+Debut du 539 episode
+Agent has reached the end in 182 steps with score 0.0
+Debut du 540 episode
+Agent has reached the end in 249 steps with score 1.0
+Debut du 541 episode
+Agent has reached the end in 313 steps with score 2.0
+Debut du 542 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 543 episode
+Agent has reached the end in 238 steps with score 1.0
+Debut du 544 episode
+Agent has reached the end in 272 steps with score 2.0
+Debut du 545 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 546 episode
+Agent has reached the end in 305 steps with score 3.0
+Debut du 547 episode
+Agent has reached the end in 267 steps with score 2.0
+Debut du 548 episode
+Agent has reached the end in 228 steps with score 1.0
+Debut du 549 episode
+Agent has reached the end in 233 steps with score 1.0
+Debut du 550 episode
+Agent has reached the end in 270 steps with score 2.0
+Debut du 551 episode
+Agent has reached the end in 243 steps with score 2.0
+Debut du 552 episode
+Agent has reached the end in 208 steps with score 1.0
+Debut du 553 episode
+Agent has reached the end in 224 steps with score 1.0
+Debut du 554 episode
+Agent has reached the end in 309 steps with score 2.0
+Debut du 555 episode
+Agent has reached the end in 357 steps with score 3.0
+Debut du 556 episode
+Agent has reached the end in 281 steps with score 2.0
+Debut du 557 episode
+Agent has reached the end in 291 steps with score 2.0
+Debut du 558 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 559 episode
+Agent has reached the end in 207 steps with score 1.0
+Debut du 560 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 561 episode
+Agent has reached the end in 244 steps with score 1.0
+Debut du 562 episode
+Agent has reached the end in 183 steps with score 0.0
+Debut du 563 episode
+Agent has reached the end in 291 steps with score 2.0
+Debut du 564 episode
+Agent has reached the end in 234 steps with score 1.0
+Debut du 565 episode
+Agent has reached the end in 270 steps with score 2.0
+Debut du 566 episode
+Agent has reached the end in 167 steps with score 0.0
+Debut du 567 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 568 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 569 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 570 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 571 episode
+Agent has reached the end in 165 steps with score 0.0
+Debut du 572 episode
+Agent has reached the end in 441 steps with score 5.0
+Debut du 573 episode
+Agent has reached the end in 159 steps with score 0.0
+Debut du 574 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 575 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 576 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 577 episode
+Agent has reached the end in 263 steps with score 1.0
+Debut du 578 episode
+Agent has reached the end in 442 steps with score 5.0
+Debut du 579 episode
+Agent has reached the end in 187 steps with score 0.0
+Debut du 580 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 581 episode
+Agent has reached the end in 221 steps with score 1.0
+Debut du 582 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 583 episode
+Agent has reached the end in 421 steps with score 5.0
+Debut du 584 episode
+Agent has reached the end in 217 steps with score 1.0
+Debut du 585 episode
+Agent has reached the end in 264 steps with score 2.0
+Debut du 586 episode
+Agent has reached the end in 302 steps with score 2.0
+Debut du 587 episode
+Agent has reached the end in 420 steps with score 4.0
+Debut du 588 episode
+Agent has reached the end in 240 steps with score 1.0
+Debut du 589 episode
+Agent has reached the end in 228 steps with score 1.0
+Debut du 590 episode
+Agent has reached the end in 296 steps with score 2.0
+Debut du 591 episode
+Agent has reached the end in 221 steps with score 1.0
+Debut du 592 episode
+Agent has reached the end in 177 steps with score 0.0
+Debut du 593 episode
+Agent has reached the end in 303 steps with score 3.0
+Debut du 594 episode
+Agent has reached the end in 184 steps with score 0.0
+Debut du 595 episode
+Agent has reached the end in 230 steps with score 1.0
+Debut du 596 episode
+Agent has reached the end in 177 steps with score 0.0
+Debut du 597 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 598 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 599 episode
+Agent has reached the end in 233 steps with score 1.0
+Debut du 600 episode
+Agent has reached the end in 260 steps with score 1.0
+Debut du 601 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 602 episode
+Agent has reached the end in 286 steps with score 2.0
+Debut du 603 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 604 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 605 episode
+Agent has reached the end in 302 steps with score 2.0
+Debut du 606 episode
+Agent has reached the end in 239 steps with score 1.0
+Debut du 607 episode
+Agent has reached the end in 304 steps with score 3.0
+Debut du 608 episode
+Agent has reached the end in 229 steps with score 1.0
+Debut du 609 episode
+Agent has reached the end in 182 steps with score 0.0
+Debut du 610 episode
+Agent has reached the end in 276 steps with score 2.0
+Debut du 611 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 612 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 613 episode
+Agent has reached the end in 212 steps with score 1.0
+Debut du 614 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 615 episode
+Agent has reached the end in 226 steps with score 1.0
+Debut du 616 episode
+Agent has reached the end in 211 steps with score 1.0
+Debut du 617 episode
+Agent has reached the end in 229 steps with score 1.0
+Debut du 618 episode
+Agent has reached the end in 342 steps with score 3.0
+Debut du 619 episode
+Agent has reached the end in 243 steps with score 1.0
+Debut du 620 episode
+Agent has reached the end in 297 steps with score 2.0
+Debut du 621 episode
+Agent has reached the end in 257 steps with score 2.0
+Debut du 622 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 623 episode
+Agent has reached the end in 211 steps with score 1.0
+Debut du 624 episode
+Agent has reached the end in 348 steps with score 3.0
+Debut du 625 episode
+Agent has reached the end in 238 steps with score 1.0
+Debut du 626 episode
+Agent has reached the end in 353 steps with score 3.0
+Debut du 627 episode
+Agent has reached the end in 212 steps with score 1.0
+Debut du 628 episode
+Agent has reached the end in 227 steps with score 1.0
+Debut du 629 episode
+Agent has reached the end in 212 steps with score 1.0
+Debut du 630 episode
+Agent has reached the end in 277 steps with score 2.0
+Debut du 631 episode
+Agent has reached the end in 163 steps with score 0.0
+Debut du 632 episode
+Agent has reached the end in 343 steps with score 3.0
+Debut du 633 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 634 episode
+Agent has reached the end in 273 steps with score 2.0
+Debut du 635 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 636 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 637 episode
+Agent has reached the end in 196 steps with score 0.0
+Debut du 638 episode
+Agent has reached the end in 187 steps with score 0.0
+Debut du 639 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 640 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 641 episode
+Agent has reached the end in 334 steps with score 3.0
+Debut du 642 episode
+Agent has reached the end in 384 steps with score 3.0
+Debut du 643 episode
+Agent has reached the end in 244 steps with score 1.0
+Debut du 644 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 645 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 646 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 647 episode
+Agent has reached the end in 362 steps with score 3.0
+Debut du 648 episode
+Agent has reached the end in 247 steps with score 1.0
+Debut du 649 episode
+Agent has reached the end in 349 steps with score 3.0
+Debut du 650 episode
+Agent has reached the end in 230 steps with score 1.0
+Debut du 651 episode
+Agent has reached the end in 309 steps with score 2.0
+Debut du 652 episode
+Agent has reached the end in 215 steps with score 1.0
+Debut du 653 episode
+Agent has reached the end in 282 steps with score 2.0
+Debut du 654 episode
+Agent has reached the end in 275 steps with score 2.0
+Debut du 655 episode
+Agent has reached the end in 301 steps with score 2.0
+Debut du 656 episode
+Agent has reached the end in 187 steps with score 0.0
+Debut du 657 episode
+Agent has reached the end in 264 steps with score 2.0
+Debut du 658 episode
+Agent has reached the end in 171 steps with score 0.0
+Debut du 659 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 660 episode
+Agent has reached the end in 246 steps with score 1.0
+Debut du 661 episode
+Agent has reached the end in 302 steps with score 2.0
+Debut du 662 episode
+Agent has reached the end in 197 steps with score 1.0
+Debut du 663 episode
+Agent has reached the end in 248 steps with score 2.0
+Debut du 664 episode
+Agent has reached the end in 182 steps with score 0.0
+Debut du 665 episode
+Agent has reached the end in 345 steps with score 3.0
+Debut du 666 episode
+Agent has reached the end in 243 steps with score 1.0
+Debut du 667 episode
+Agent has reached the end in 277 steps with score 2.0
+Debut du 668 episode
+Agent has reached the end in 307 steps with score 2.0
+Debut du 669 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 670 episode
+Agent has reached the end in 338 steps with score 3.0
+Debut du 671 episode
+Agent has reached the end in 295 steps with score 2.0
+Debut du 672 episode
+Agent has reached the end in 185 steps with score 0.0
+Debut du 673 episode
+Agent has reached the end in 278 steps with score 2.0
+Debut du 674 episode
+Agent has reached the end in 237 steps with score 1.0
+Debut du 675 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 676 episode
+Agent has reached the end in 167 steps with score 0.0
+Debut du 677 episode
+Agent has reached the end in 250 steps with score 2.0
+Debut du 678 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 679 episode
+Agent has reached the end in 259 steps with score 1.0
+Debut du 680 episode
+Agent has reached the end in 310 steps with score 2.0
+Debut du 681 episode
+Agent has reached the end in 303 steps with score 2.0
+Debut du 682 episode
+Agent has reached the end in 215 steps with score 1.0
+Debut du 683 episode
+Agent has reached the end in 336 steps with score 2.0
+Debut du 684 episode
+Agent has reached the end in 171 steps with score 0.0
+Debut du 685 episode
+Agent has reached the end in 184 steps with score 0.0
+Debut du 686 episode
+Agent has reached the end in 248 steps with score 1.0
+Debut du 687 episode
+Agent has reached the end in 184 steps with score 0.0
+Debut du 688 episode
+Agent has reached the end in 318 steps with score 2.0
+Debut du 689 episode
+Agent has reached the end in 215 steps with score 1.0
+Debut du 690 episode
+Agent has reached the end in 244 steps with score 1.0
+Debut du 691 episode
+Agent has reached the end in 283 steps with score 2.0
+Debut du 692 episode
+Agent has reached the end in 205 steps with score 1.0
+Debut du 693 episode
+Agent has reached the end in 272 steps with score 2.0
+Debut du 694 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 695 episode
+Agent has reached the end in 306 steps with score 2.0
+Debut du 696 episode
+Agent has reached the end in 340 steps with score 3.0
+Debut du 697 episode
+Agent has reached the end in 171 steps with score 0.0
+Debut du 698 episode
+Agent has reached the end in 326 steps with score 3.0
+Debut du 699 episode
+Agent has reached the end in 365 steps with score 3.0
+Debut du 700 episode
+Agent has reached the end in 165 steps with score 0.0
+Debut du 701 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 702 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 703 episode
+Agent has reached the end in 299 steps with score 2.0
+Debut du 704 episode
+Agent has reached the end in 366 steps with score 3.0
+Debut du 705 episode
+Agent has reached the end in 297 steps with score 3.0
+Debut du 706 episode
+Agent has reached the end in 286 steps with score 2.0
+Debut du 707 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 708 episode
+Agent has reached the end in 390 steps with score 4.0
+Debut du 709 episode
+Agent has reached the end in 308 steps with score 2.0
+Debut du 710 episode
+Agent has reached the end in 301 steps with score 2.0
+Debut du 711 episode
+Agent has reached the end in 238 steps with score 1.0
+Debut du 712 episode
+Agent has reached the end in 293 steps with score 2.0
+Debut du 713 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 714 episode
+Agent has reached the end in 393 steps with score 3.0
+Debut du 715 episode
+Agent has reached the end in 182 steps with score 0.0
+Debut du 716 episode
+Agent has reached the end in 297 steps with score 2.0
+Debut du 717 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 718 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 719 episode
+Agent has reached the end in 187 steps with score 0.0
+Debut du 720 episode
+Agent has reached the end in 182 steps with score 0.0
+Debut du 721 episode
+Agent has reached the end in 295 steps with score 2.0
+Debut du 722 episode
+Agent has reached the end in 214 steps with score 1.0
+Debut du 723 episode
+Agent has reached the end in 381 steps with score 4.0
+Debut du 724 episode
+Agent has reached the end in 232 steps with score 1.0
+Debut du 725 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 726 episode
+Agent has reached the end in 238 steps with score 1.0
+Debut du 727 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 728 episode
+Agent has reached the end in 250 steps with score 2.0
+Debut du 729 episode
+Agent has reached the end in 233 steps with score 1.0
+Debut du 730 episode
+Agent has reached the end in 447 steps with score 5.0
+Debut du 731 episode
+Agent has reached the end in 269 steps with score 2.0
+Debut du 732 episode
+Agent has reached the end in 230 steps with score 1.0
+Debut du 733 episode
+Agent has reached the end in 331 steps with score 3.0
+Debut du 734 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 735 episode
+Agent has reached the end in 252 steps with score 2.0
+Debut du 736 episode
+Agent has reached the end in 265 steps with score 2.0
+Debut du 737 episode
+Agent has reached the end in 185 steps with score 0.0
+Debut du 738 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 739 episode
+Agent has reached the end in 211 steps with score 1.0
+Debut du 740 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 741 episode
+Agent has reached the end in 255 steps with score 1.0
+Debut du 742 episode
+Agent has reached the end in 432 steps with score 4.0
+Debut du 743 episode
+Agent has reached the end in 318 steps with score 3.0
+Debut du 744 episode
+Agent has reached the end in 355 steps with score 3.0
+Debut du 745 episode
+Agent has reached the end in 271 steps with score 2.0
+Debut du 746 episode
+Agent has reached the end in 234 steps with score 1.0
+Debut du 747 episode
+Agent has reached the end in 177 steps with score 0.0
+Debut du 748 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 749 episode
+Agent has reached the end in 239 steps with score 1.0
+Debut du 750 episode
+Agent has reached the end in 407 steps with score 4.0
+Debut du 751 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 752 episode
+Agent has reached the end in 234 steps with score 1.0
+Debut du 753 episode
+Agent has reached the end in 302 steps with score 2.0
+Debut du 754 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 755 episode
+Agent has reached the end in 271 steps with score 2.0
+Debut du 756 episode
+Agent has reached the end in 266 steps with score 2.0
+Debut du 757 episode
+Agent has reached the end in 211 steps with score 1.0
+Debut du 758 episode
+Agent has reached the end in 183 steps with score 0.0
+Debut du 759 episode
+Agent has reached the end in 374 steps with score 4.0
+Debut du 760 episode
+Agent has reached the end in 226 steps with score 1.0
+Debut du 761 episode
+Agent has reached the end in 248 steps with score 1.0
+Debut du 762 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 763 episode
+Agent has reached the end in 232 steps with score 1.0
+Debut du 764 episode
+Agent has reached the end in 310 steps with score 3.0
+Debut du 765 episode
+Agent has reached the end in 198 steps with score 0.0
+Debut du 766 episode
+Agent has reached the end in 381 steps with score 4.0
+Debut du 767 episode
+Agent has reached the end in 401 steps with score 4.0
+Debut du 768 episode
+Agent has reached the end in 205 steps with score 1.0
+Debut du 769 episode
+Agent has reached the end in 189 steps with score 0.0
+Debut du 770 episode
+Agent has reached the end in 209 steps with score 1.0
+Debut du 771 episode
+Agent has reached the end in 254 steps with score 2.0
+Debut du 772 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 773 episode
+Agent has reached the end in 276 steps with score 2.0
+Debut du 774 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 775 episode
+Agent has reached the end in 239 steps with score 1.0
+Debut du 776 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 777 episode
+Agent has reached the end in 306 steps with score 3.0
+Debut du 778 episode
+Agent has reached the end in 332 steps with score 3.0
+Debut du 779 episode
+Agent has reached the end in 163 steps with score 0.0
+Debut du 780 episode
+Agent has reached the end in 228 steps with score 1.0
+Debut du 781 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 782 episode
+Agent has reached the end in 243 steps with score 1.0
+Debut du 783 episode
+Agent has reached the end in 171 steps with score 0.0
+Debut du 784 episode
+Agent has reached the end in 327 steps with score 3.0
+Debut du 785 episode
+Agent has reached the end in 293 steps with score 2.0
+Debut du 786 episode
+Agent has reached the end in 299 steps with score 3.0
+Debut du 787 episode
+Agent has reached the end in 165 steps with score 0.0
+Debut du 788 episode
+Agent has reached the end in 219 steps with score 1.0
+Debut du 789 episode
+Agent has reached the end in 341 steps with score 3.0
+Debut du 790 episode
+Agent has reached the end in 314 steps with score 2.0
+Debut du 791 episode
+Agent has reached the end in 230 steps with score 1.0
+Debut du 792 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 793 episode
+Agent has reached the end in 242 steps with score 1.0
+Debut du 794 episode
+Agent has reached the end in 171 steps with score 0.0
+Debut du 795 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 796 episode
+Agent has reached the end in 276 steps with score 2.0
+Debut du 797 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 798 episode
+Agent has reached the end in 268 steps with score 2.0
+Debut du 799 episode
+Agent has reached the end in 208 steps with score 1.0
+Debut du 800 episode
+Agent has reached the end in 314 steps with score 3.0
+Debut du 801 episode
+Agent has reached the end in 183 steps with score 0.0
+Debut du 802 episode
+Agent has reached the end in 202 steps with score 1.0
+Debut du 803 episode
+Agent has reached the end in 232 steps with score 1.0
+Debut du 804 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 805 episode
+Agent has reached the end in 296 steps with score 2.0
+Debut du 806 episode
+Agent has reached the end in 222 steps with score 1.0
+Debut du 807 episode
+Agent has reached the end in 209 steps with score 1.0
+Debut du 808 episode
+Agent has reached the end in 183 steps with score 0.0
+Debut du 809 episode
+Agent has reached the end in 299 steps with score 2.0
+Debut du 810 episode
+Agent has reached the end in 355 steps with score 3.0
+Debut du 811 episode
+Agent has reached the end in 291 steps with score 2.0
+Debut du 812 episode
+Agent has reached the end in 266 steps with score 2.0
+Debut du 813 episode
+Agent has reached the end in 269 steps with score 2.0
+Debut du 814 episode
+Agent has reached the end in 188 steps with score 0.0
+Debut du 815 episode
+Agent has reached the end in 228 steps with score 1.0
+Debut du 816 episode
+Agent has reached the end in 170 steps with score 0.0
+Debut du 817 episode
+Agent has reached the end in 345 steps with score 3.0
+Debut du 818 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 819 episode
+Agent has reached the end in 340 steps with score 3.0
+Debut du 820 episode
+Agent has reached the end in 268 steps with score 2.0
+Debut du 821 episode
+Agent has reached the end in 286 steps with score 2.0
+Debut du 822 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 823 episode
+Agent has reached the end in 367 steps with score 3.0
+Debut du 824 episode
+Agent has reached the end in 203 steps with score 1.0
+Debut du 825 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 826 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 827 episode
+Agent has reached the end in 231 steps with score 1.0
+Debut du 828 episode
+Agent has reached the end in 177 steps with score 0.0
+Debut du 829 episode
+Agent has reached the end in 277 steps with score 2.0
+Debut du 830 episode
+Agent has reached the end in 213 steps with score 1.0
+Debut du 831 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 832 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 833 episode
+Agent has reached the end in 370 steps with score 3.0
+Debut du 834 episode
+Agent has reached the end in 188 steps with score 0.0
+Debut du 835 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 836 episode
+Agent has reached the end in 325 steps with score 3.0
+Debut du 837 episode
+Agent has reached the end in 193 steps with score 0.0
+Debut du 838 episode
+Agent has reached the end in 217 steps with score 1.0
+Debut du 839 episode
+Agent has reached the end in 267 steps with score 2.0
+Debut du 840 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 841 episode
+Agent has reached the end in 188 steps with score 0.0
+Debut du 842 episode
+Agent has reached the end in 161 steps with score 0.0
+Debut du 843 episode
+Agent has reached the end in 165 steps with score 0.0
+Debut du 844 episode
+Agent has reached the end in 205 steps with score 1.0
+Debut du 845 episode
+Agent has reached the end in 200 steps with score 1.0
+Debut du 846 episode
+Agent has reached the end in 407 steps with score 4.0
+Debut du 847 episode
+Agent has reached the end in 282 steps with score 2.0
+Debut du 848 episode
+Agent has reached the end in 240 steps with score 1.0
+Debut du 849 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 850 episode
+Agent has reached the end in 228 steps with score 1.0
+Debut du 851 episode
+Agent has reached the end in 356 steps with score 3.0
+Debut du 852 episode
+Agent has reached the end in 213 steps with score 1.0
+Debut du 853 episode
+Agent has reached the end in 275 steps with score 2.0
+Debut du 854 episode
+Agent has reached the end in 248 steps with score 1.0
+Debut du 855 episode
+Agent has reached the end in 322 steps with score 2.0
+Debut du 856 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 857 episode
+Agent has reached the end in 500 steps with score 6.0
+Debut du 858 episode
+Agent has reached the end in 193 steps with score 0.0
+Debut du 859 episode
+Agent has reached the end in 248 steps with score 1.0
+Debut du 860 episode
+Agent has reached the end in 423 steps with score 4.0
+Debut du 861 episode
+Agent has reached the end in 378 steps with score 3.0
+Debut du 862 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 863 episode
+Agent has reached the end in 238 steps with score 1.0
+Debut du 864 episode
+Agent has reached the end in 318 steps with score 2.0
+Debut du 865 episode
+Agent has reached the end in 276 steps with score 2.0
+Debut du 866 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 867 episode
+Agent has reached the end in 206 steps with score 0.0
+Debut du 868 episode
+Agent has reached the end in 285 steps with score 2.0
+Debut du 869 episode
+Agent has reached the end in 213 steps with score 1.0
+Debut du 870 episode
+Agent has reached the end in 187 steps with score 0.0
+Debut du 871 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 872 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 873 episode
+Agent has reached the end in 301 steps with score 2.0
+Debut du 874 episode
+Agent has reached the end in 203 steps with score 1.0
+Debut du 875 episode
+Agent has reached the end in 217 steps with score 1.0
+Debut du 876 episode
+Agent has reached the end in 382 steps with score 4.0
+Debut du 877 episode
+Agent has reached the end in 316 steps with score 2.0
+Debut du 878 episode
+Agent has reached the end in 316 steps with score 3.0
+Debut du 879 episode
+Agent has reached the end in 179 steps with score 0.0
+Debut du 880 episode
+Agent has reached the end in 202 steps with score 1.0
+Debut du 881 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 882 episode
+Agent has reached the end in 158 steps with score 0.0
+Debut du 883 episode
+Agent has reached the end in 166 steps with score 0.0
+Debut du 884 episode
+Agent has reached the end in 412 steps with score 4.0
+Debut du 885 episode
+Agent has reached the end in 273 steps with score 2.0
+Debut du 886 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 887 episode
+Agent has reached the end in 187 steps with score 0.0
+Debut du 888 episode
+Agent has reached the end in 309 steps with score 2.0
+Debut du 889 episode
+Agent has reached the end in 358 steps with score 3.0
+Debut du 890 episode
+Agent has reached the end in 347 steps with score 3.0
+Debut du 891 episode
+Agent has reached the end in 241 steps with score 1.0
+Debut du 892 episode
+Agent has reached the end in 265 steps with score 2.0
+Debut du 893 episode
+Agent has reached the end in 162 steps with score 0.0
+Debut du 894 episode
+Agent has reached the end in 215 steps with score 1.0
+Debut du 895 episode
+Agent has reached the end in 184 steps with score 0.0
+Debut du 896 episode
+Agent has reached the end in 299 steps with score 3.0
+Debut du 897 episode
+Agent has reached the end in 252 steps with score 1.0
+Debut du 898 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 899 episode
+Agent has reached the end in 344 steps with score 3.0
+Debut du 900 episode
+Agent has reached the end in 316 steps with score 3.0
+Debut du 901 episode
+Agent has reached the end in 206 steps with score 1.0
+Debut du 902 episode
+Agent has reached the end in 243 steps with score 1.0
+Debut du 903 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 904 episode
+Agent has reached the end in 244 steps with score 1.0
+Debut du 905 episode
+Agent has reached the end in 312 steps with score 2.0
+Debut du 906 episode
+Agent has reached the end in 250 steps with score 1.0
+Debut du 907 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 908 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 909 episode
+Agent has reached the end in 287 steps with score 2.0
+Debut du 910 episode
+Agent has reached the end in 245 steps with score 1.0
+Debut du 911 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 912 episode
+Agent has reached the end in 431 steps with score 5.0
+Debut du 913 episode
+Agent has reached the end in 167 steps with score 0.0
+Debut du 914 episode
+Agent has reached the end in 433 steps with score 4.0
+Debut du 915 episode
+Agent has reached the end in 221 steps with score 1.0
+Debut du 916 episode
+Agent has reached the end in 261 steps with score 2.0
+Debut du 917 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 918 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 919 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 920 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 921 episode
+Agent has reached the end in 186 steps with score 0.0
+Debut du 922 episode
+Agent has reached the end in 243 steps with score 1.0
+Debut du 923 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 924 episode
+Agent has reached the end in 275 steps with score 2.0
+Debut du 925 episode
+Agent has reached the end in 181 steps with score 0.0
+Debut du 926 episode
+Agent has reached the end in 348 steps with score 3.0
+Debut du 927 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 928 episode
+Agent has reached the end in 392 steps with score 4.0
+Debut du 929 episode
+Agent has reached the end in 248 steps with score 1.0
+Debut du 930 episode
+Agent has reached the end in 177 steps with score 0.0
+Debut du 931 episode
+Agent has reached the end in 336 steps with score 3.0
+Debut du 932 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 933 episode
+Agent has reached the end in 336 steps with score 3.0
+Debut du 934 episode
+Agent has reached the end in 213 steps with score 1.0
+Debut du 935 episode
+Agent has reached the end in 168 steps with score 0.0
+Debut du 936 episode
+Agent has reached the end in 265 steps with score 2.0
+Debut du 937 episode
+Agent has reached the end in 176 steps with score 0.0
+Debut du 938 episode
+Agent has reached the end in 250 steps with score 2.0
+Debut du 939 episode
+Agent has reached the end in 358 steps with score 3.0
+Debut du 940 episode
+Agent has reached the end in 236 steps with score 1.0
+Debut du 941 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 942 episode
+Agent has reached the end in 185 steps with score 0.0
+Debut du 943 episode
+Agent has reached the end in 248 steps with score 1.0
+Debut du 944 episode
+Agent has reached the end in 333 steps with score 3.0
+Debut du 945 episode
+Agent has reached the end in 203 steps with score 1.0
+Debut du 946 episode
+Agent has reached the end in 215 steps with score 1.0
+Debut du 947 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 948 episode
+Agent has reached the end in 250 steps with score 1.0
+Debut du 949 episode
+Agent has reached the end in 214 steps with score 1.0
+Debut du 950 episode
+Agent has reached the end in 274 steps with score 2.0
+Debut du 951 episode
+Agent has reached the end in 298 steps with score 2.0
+Debut du 952 episode
+Agent has reached the end in 307 steps with score 3.0
+Debut du 953 episode
+Agent has reached the end in 234 steps with score 1.0
+Debut du 954 episode
+Agent has reached the end in 164 steps with score 0.0
+Debut du 955 episode
+Agent has reached the end in 312 steps with score 2.0
+Debut du 956 episode
+Agent has reached the end in 210 steps with score 1.0
+Debut du 957 episode
+Agent has reached the end in 207 steps with score 1.0
+Debut du 958 episode
+Agent has reached the end in 165 steps with score 0.0
+Debut du 959 episode
+Agent has reached the end in 239 steps with score 1.0
+Debut du 960 episode
+Agent has reached the end in 280 steps with score 2.0
+Debut du 961 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 962 episode
+Agent has reached the end in 508 steps with score 5.0
+Debut du 963 episode
+Agent has reached the end in 285 steps with score 2.0
+Debut du 964 episode
+Agent has reached the end in 231 steps with score 1.0
+Debut du 965 episode
+Agent has reached the end in 225 steps with score 1.0
+Debut du 966 episode
+Agent has reached the end in 242 steps with score 1.0
+Debut du 967 episode
+Agent has reached the end in 274 steps with score 2.0
+Debut du 968 episode
+Agent has reached the end in 304 steps with score 2.0
+Debut du 969 episode
+Agent has reached the end in 173 steps with score 0.0
+Debut du 970 episode
+Agent has reached the end in 178 steps with score 0.0
+Debut du 971 episode
+Agent has reached the end in 180 steps with score 0.0
+Debut du 972 episode
+Agent has reached the end in 214 steps with score 1.0
+Debut du 973 episode
+Agent has reached the end in 184 steps with score 0.0
+Debut du 974 episode
+Agent has reached the end in 240 steps with score 1.0
+Debut du 975 episode
+Agent has reached the end in 294 steps with score 2.0
+Debut du 976 episode
+Agent has reached the end in 167 steps with score 0.0
+Debut du 977 episode
+Agent has reached the end in 238 steps with score 1.0
+Debut du 978 episode
+Agent has reached the end in 165 steps with score 0.0
+Debut du 979 episode
+Agent has reached the end in 323 steps with score 3.0
+Debut du 980 episode
+Agent has reached the end in 337 steps with score 3.0
+Debut du 981 episode
+Agent has reached the end in 429 steps with score 4.0
+Debut du 982 episode
+Agent has reached the end in 240 steps with score 1.0
+Debut du 983 episode
+Agent has reached the end in 167 steps with score 0.0
+Debut du 984 episode
+Agent has reached the end in 319 steps with score 3.0
+Debut du 985 episode
+Agent has reached the end in 278 steps with score 2.0
+Debut du 986 episode
+Agent has reached the end in 246 steps with score 1.0
+Debut du 987 episode
+Agent has reached the end in 182 steps with score 0.0
+Debut du 988 episode
+Agent has reached the end in 174 steps with score 0.0
+Debut du 989 episode
+Agent has reached the end in 205 steps with score 1.0
+Debut du 990 episode
+Agent has reached the end in 350 steps with score 3.0
+Debut du 991 episode
+Agent has reached the end in 278 steps with score 2.0
+Debut du 992 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 993 episode
+Agent has reached the end in 276 steps with score 2.0
+Debut du 994 episode
+Agent has reached the end in 237 steps with score 1.0
+Debut du 995 episode
+Agent has reached the end in 231 steps with score 1.0
+Debut du 996 episode
+Agent has reached the end in 313 steps with score 3.0
+Debut du 997 episode
+Agent has reached the end in 169 steps with score 0.0
+Debut du 998 episode
+Agent has reached the end in 348 steps with score 3.0
+Debut du 999 episode
+Agent has reached the end in 175 steps with score 0.0
+Debut du 1000 episode
+Agent has reached the end in 256 steps with score 1.0
+Debut du 1001 episode
+Agent has reached the end in 260 steps with score 2.0
+Debut du 1002 episode
+Agent has reached the end in 277 steps with score 2.0
+Debut du 1003 episode
+Agent has reached the end in 225 steps with score 1.0
+Debut du 1004 episode
+Agent has reached the end in 185 steps with score 0.0
+Debut du 1005 episode
+Agent has reached the end in 211 steps with score 1.0
+Debut du 1006 episode
+Agent has reached the end in 235 steps with score 1.0
+Debut du 1007 episode
+Agent has reached the end in 245 steps with score 1.0
+Debut du 1008 episode
+Agent has reached the end in 223 steps with score 1.0
+Debut du 1009 episode
+Agent has reached the end in 172 steps with score 0.0
+Debut du 1010 episode

@@ -22,7 +22,7 @@ class DQLAgent:
         self.epsilon_min = 0.1
         self.gamma = 0.95
         self.model = self._build_model()
-        self.max_size_memory = 100000
+        self.max_size_memory = 50000
 
     def _build_model(self):
         model = Sequential()

@@ -12,8 +12,8 @@ sys.path=['',
  '/opt/anaconda2/lib/python2.7/site-packages/biopython-1.69-py2.7-linux-x86_64.egg',
  '/opt/anaconda2/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg',
  '/opt/anaconda2/lib/python2.7/site-packages/IPython/extensions',
- '/home/tp-home001/gcolli2/.ipython'
-          ]
+ '/home/tp-home001/gcolli2/.ipython',
+ '/home/tp-home001/gcolli2/.local/lib/python2.7/site-packages',]
  
 import gym
 import time
@@ -45,9 +45,9 @@ if __name__ == '__main__':
     list_average_score = []
 
     if not restart:
-        # On charge le dernier modèle
+        # On charge le dernier modele
         agent.continue_model(load_model_from_file)
-        # Et les résultats
+        # Et les resultats
         save_average_score = pd.read_csv('output/' + file + '.csv')
     else:
         save_average_score = pd.DataFrame({'Episode': [0],
@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
 
     for episode in range(nb_episode):
-        print('Début du ' + str(episode) + ' épisode')
+        print('Debut du ' + str(episode) + ' episode')
         state = env.reset()
         history[0] = state
         history[1] = state
@@ -102,7 +102,7 @@ if __name__ == '__main__':
             agent.save('output/backup.h5')
             list_average_score.append((nb_episode, average_score / 1000))
             average_score = 0
-            print('Le score moyen sur les 1000 derniers épisode était {}'.format(average_score))
+            print('Le score moyen sur les 1000 derniers episode etait {}'.format(average_score))
         if no_training_steps > 0:
             no_training_steps -= compteur
         else:
