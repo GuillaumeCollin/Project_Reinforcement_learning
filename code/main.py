@@ -32,14 +32,14 @@ if __name__ == '__main__':
     if not restart:
         # On charge le dernier modèle
         agent.continue_model(load_model_from_file)
-        # Et les résultats
+        # Et les resultats
         save_average_score = pd.read_csv('output/' + file + '.csv')
     else:
         save_average_score = pd.DataFrame({'Episode': [0],
                                            'Average_score': [0]})
 
     for episode in range(nb_episode):
-        print('Début du ' + str(episode) + ' épisode')
+        print('Debut du ' + str(episode) + ' episode')
         state = env.reset()
         history = np.stack((state,state,state,state),axis=0)
         compteur = 0
@@ -82,7 +82,7 @@ if __name__ == '__main__':
             agent.save('output/backup.h5')
             list_average_score.append((nb_episode, average_score / 1000))
             average_score = 0
-            print('Le score moyen sur les 1000 derniers épisode était {}'.format(average_score))
+            print('Le score moyen sur les 1000 derniers episode etait {}'.format(average_score))
         if no_training_steps > 0:
             no_training_steps -= compteur
         else:
