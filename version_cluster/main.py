@@ -45,7 +45,7 @@ if __name__ == '__main__':
     repeat_action = 4
 
     if not restart:
-        # On charge le dernier modèle
+        # On charge le dernier modele
         agent.continue_model(load_model_from_file)
         # Et les rsultats
         save_average_score = pd.read_csv('output/' + file + '.csv')
