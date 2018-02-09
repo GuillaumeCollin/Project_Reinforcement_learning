@@ -37,6 +37,7 @@ if __name__ == '__main__':
     history = [0, 0, 0, 0]
     save_models_each = 300
     restart = True
+
     no_training_steps = 50000
     allow_replay = False
     load_model_from_file = file
