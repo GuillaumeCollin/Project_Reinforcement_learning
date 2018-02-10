@@ -29,15 +29,14 @@ action_size = env.action_space.n
 agent = DQLAgent(state_size, action_size)
 
 ######## A changer
-file = 'third_model'
+file = 'fourth_model'
+restart = True
 
 if __name__ == '__main__':
     nb_episode = 1000000
     batch_size = 32
     history = [0, 0, 0, 0]
     save_models_each = 300
-    restart = True
-
     no_training_steps = 50000
     allow_replay = False
     load_model_from_file = file
@@ -97,8 +96,11 @@ if __name__ == '__main__':
         if episode % save_models_each == 0 and episode != 0:
             agent.save('output/backup.h5')
             list_average_score.append((nb_episode, average_score / save_models_each))
-            average_score = 0
+            save_average_score[0] = np.array(list_average_score)[:, 0]
+            save_average_score[1] = np.array(list_average_score)[:, 1]
+            save_average_score.to_csv('output/' + file + 'backup.csv')
             print('Le score moyen sur les {} derniers episode etait {}'.format(save_models_each,average_score))
+            average_score = 0
         if no_training_steps > 0:
             no_training_steps -= compteur
         else:

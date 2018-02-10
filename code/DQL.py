@@ -1,10 +1,9 @@
 from keras.models import Sequential
 from keras.layers import Dense,Conv2D,Activation, Flatten
-from keras.optimizers import Adam
+from keras.optimizers import Adam, SGD
 import numpy as np
 import random
 from keras.models import load_model
-
 
 # Deep Q-learning Agent
 
@@ -34,7 +33,7 @@ class DQLAgent:
         model.add(Dense(256))
         model.add(Activation('relu'))
         model.add(Dense(self.action_size, activation='linear'))
-        model.compile(loss='mean_squared_error', optimizer=Adam(lr=self.learning_rate))
+        model.compile(loss='mean_squared_error', optimizer=SGD(lr=self.learning_rate))
         return model
 
     def continue_model(self,file):
