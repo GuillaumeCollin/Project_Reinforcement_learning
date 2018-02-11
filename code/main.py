@@ -15,7 +15,7 @@ agent = DQLAgent(state_size, action_size)
 
 ######## A changer
 file = 'fourth_model'
-restart = True
+restart = False
 
 if __name__ == '__main__':
     nb_episode = 1000000
@@ -80,9 +80,8 @@ if __name__ == '__main__':
         average_score += score
         if episode % save_models_each == 0 and episode != 0:
             agent.save('output/backup.h5')
-            list_average_score.append((nb_episode, average_score / save_models_each))
-            save_average_score[0] = np.array(list_average_score)[:, 0]
-            save_average_score[1] = np.array(list_average_score)[:, 1]
+            list_average_score.append((episode, average_score / save_models_each))
+            save_average_score.loc[save_average_score.index[-1] + 1] = np.array(list_average_score[-1])
             save_average_score.to_csv('output/' + file + 'backup.csv')
             print('Le score moyen sur les {} derniers episode etait {}'.format(save_models_each,average_score))
             average_score = 0
@@ -90,7 +89,5 @@ if __name__ == '__main__':
             no_training_steps -= compteur
         else:
             allow_replay = True
-    save_average_score[0] = np.array(list_average_score)[:, 0]
-    save_average_score[1] = np.array(list_average_score)[:, 1]
     save_average_score.to_csv('output/' + file + '.csv')
     agent.save('output/' + file + '.h5')

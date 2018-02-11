@@ -39,6 +39,7 @@ class DQLAgent:
     def continue_model(self,file):
         path = 'output/' + file + '.h5'
         model = load_model(path)
+        print('Model successfully loaded')
         self.model = model
 
     def add_to_memory(self, state, action, reward, next_state, terminal):
