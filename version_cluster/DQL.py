@@ -59,18 +59,20 @@ class DQLAgent:
 
     def replay(self, batch_size):
         minibatch = random.sample(self.memory,batch_size)
-        states = minibatch[:]
+        states = np.zeros((batch_size, self.image_height,self.image_width,self.aggregated_images))
         y_cible = np.zeros((batch_size, self.action_size))
+
         for ligne in range(len(minibatch)):
             state = minibatch[ligne][0]
+            states[ligne] = state
             action = minibatch[ligne][1]
             reward = minibatch[ligne][2]
             next_state = minibatch[ligne][3]
             terminal = minibatch[ligne][4]
             if terminal:
                 y = reward
-            else :
-                y = reward + self.gamma * np.amax(self.model.predict(np.array(next_state)))
+            else:
+                y = reward + self.gamma * np.max(self.model.predict(np.array(next_state)))
             y_cible[ligne] = self.model.predict(state)
             y_cible[ligne][action] = y
         self.model.train_on_batch(states, y_cible)
