@@ -4,7 +4,7 @@ import gym
 from preprocess import preprocess
 import time
 
-def test(file,nb_step):
+def test(file, render):
     env = gym.make('Breakout-v0')
     state = env.reset()
     path = 'output/' + file
@@ -16,10 +16,12 @@ def test(file,nb_step):
     history[3] = state
     prepross_history = preprocess(history)
     compteur = 0
+    done = False
 
-    for step in range(nb_step):
+    while not done:
         compteur += 1
-        env.render()
+        if render :
+            env.render()
         time.sleep(0.1)
 
         # on cherche la meilleure action
@@ -35,8 +37,6 @@ def test(file,nb_step):
         next_state = preprocess(history)
         prepross_history = next_state
 
-        if done:
-            break
 
 def act(state,model):
 
@@ -46,5 +46,3 @@ def act(state,model):
 
 def main():
     test('first_model.h5',1000)
-
-main()
