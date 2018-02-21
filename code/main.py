@@ -11,8 +11,8 @@ import numpy as np
 
 ######## A changer
 nb_episode = 4000000
-file = 'fifth_model'
-restart = False
+file = 'fifth_model_test'
+restart = True
 
 env = gym.make('Breakout-v0')
 state_size = env.observation_space.shape

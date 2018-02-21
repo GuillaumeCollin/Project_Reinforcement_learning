@@ -46,5 +46,3 @@ def act(state,model):
 
 def main():
     test('first_model.h5',1000)
-
-main()
