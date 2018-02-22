@@ -50,7 +50,7 @@ if __name__ == '__main__':
         # On charge le dernier modele
         agent.continue_model(load_model_from_file)
         # Et les resultats
-        save_average_score = pd.read_csv('output/' + file + '.csv')
+        save_average_score = pd.read_csv('output/' + file + '.csv',index_col = [0])
         beginning_episodes = int(save_average_score['Episode'][save_average_score.index[-1]])
         agent.update_epsilon(beginning_episodes)
     else:
