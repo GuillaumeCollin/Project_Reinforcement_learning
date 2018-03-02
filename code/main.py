@@ -11,8 +11,8 @@ import numpy as np
 
 ######## A changer
 nb_episode = 4000000
-file = 'fifth_model'
-restart = True
+file = 'sixth_model'
+restart = False
 
 env = gym.make('Breakout-v0')
 state_size = env.observation_space.shape
@@ -23,11 +23,10 @@ agent = DQLAgent(state_size, action_size, nb_episode)
 if __name__ == '__main__':
     batch_size = 32
     history = [0, 0, 0, 0]
-    save_models_each = 300
+    save_models_each = 500
     no_training_steps = 50000
     allow_replay = False
     load_model_from_file = file
-    average_score = 0
     repeat_action = 4
     beginning_episodes = 0
 
@@ -35,12 +34,13 @@ if __name__ == '__main__':
         # On charge le dernier modele
         agent.continue_model(load_model_from_file)
         # Et les resultats
-        save_average_score = pd.read_csv('output/' + file + '.csv',index_col = [0])
+        save_average_score = pd.read_csv('output/' + file + '.csv', index_col=[0])
         beginning_episodes = int(save_average_score['Episode'][save_average_score.index[-1]])
         agent.update_epsilon(beginning_episodes)
     else:
         save_average_score = pd.DataFrame({'Average_score': [0],
-                                           'Episode': [0]})
+                                           'Episode': [0],
+                                           'Q_average': [0]})
 
     for episode in range(beginning_episodes,nb_episode):
         print('Debut du ' + str(episode) + ' episode')
@@ -59,13 +59,12 @@ if __name__ == '__main__':
             # time.sleep(0.1)
 
             # on cherche la meilleure action
-
             action = agent.act(prepross_history)
 
             save_state = prepross_history
 
             # On la fait
-            for action in range(repeat_action):
+            for do_action in range(repeat_action):
                 next_state_not_processed, reward, done, info = env.step(action)
                 score += reward
 
@@ -81,14 +80,13 @@ if __name__ == '__main__':
                 agent.replay(batch_size)
         message = 'Agent has reached the end in {} steps with score {}'.format(compteur, score)
         print(message)
-        average_score += score
         if episode % save_models_each == 0 and episode != beginning_episodes:
             agent.save('output/' + file + '.h5')
-            save_average_score.loc[save_average_score.index[-1] + 1] = np.array([average_score / save_models_each, episode])
+            average_score, q_average = test.test(file, False, 10, 0.05, action_size)
+            save_average_score.loc[save_average_score.index[-1] + 1] = np.array([average_score, episode, q_average])
             save_average_score.to_csv('output/' + file + '.csv')
-            print('Le score moyen sur les {} derniers episode etait {}'.format(save_models_each,
-                                                                               average_score / save_models_each ))
-            average_score = 0
+            print('Le score moyen sur les {} derniers episode etait {} , qmoyen = {}'.format(save_models_each,
+                                                                               average_score, q_average ))
         if no_training_steps > 0:
             no_training_steps -= compteur
         else:

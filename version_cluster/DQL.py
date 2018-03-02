@@ -55,7 +55,7 @@ class DQLAgent:
         next_action = self.model.predict(state)
         if self.epsilon > self.epsilon_min:
             self.epsilon -= self.epsilon_decay
-        return np.argmax(next_action[0])  # returns action
+        return np.argmax(next_action)  # returns action
 
     def replay(self, batch_size):
         minibatch = random.sample(self.memory,batch_size)

@@ -12,7 +12,5 @@ def preprocess(images):
         corp_image[0:210,0:160,i] = to_gray(images[i])
     ressampled_image = corp_image[::2,::2]
     img = np.expand_dims(ressampled_image[13:97], axis=0).astype(np.uint8)
-    plt.imshow(img[0], cmap=cm.Greys_r)
-    plt.show()
     return img
 
