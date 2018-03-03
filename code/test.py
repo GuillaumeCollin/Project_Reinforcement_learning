@@ -49,7 +49,7 @@ def test(file, render, nb_iter, epsilon,action_size):
             prepross_history = next_state
             # On la sauvegarde
 
-    return average_reward/nb_iter, q_average
+    return average_reward/nb_iter, q_average/nb_iter
 
 def act(state,model):
 
