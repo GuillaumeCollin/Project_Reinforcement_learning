@@ -37,7 +37,7 @@ def test(file, render, nb_iter, epsilon,action_size):
             else :
                 action_prediction = model.predict(prepross_history)
             q_average += np.average(action_prediction)
-            action = np.argmax(action_prediction)
+            action = np.max(action_prediction)
 
             # On la fait
             for do_action in range(repeat_action):

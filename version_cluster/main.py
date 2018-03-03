@@ -29,7 +29,7 @@ import numpy as np
 ######## A changer
 nb_episode = 4000000
 file = 'sixth_model'
-restart = True
+restart = False
 
 env = gym.make('Breakout-v0')
 state_size = env.observation_space.shape
@@ -99,7 +99,7 @@ if __name__ == '__main__':
         print(message)
         if episode % save_models_each == 0 and episode != beginning_episodes:
             agent.save('output/' + file + '.h5')
-            average_score, q_average = test.test(file, False, 10, 0.05, action_size)
+            average_score, q_average = test.test(file, False, 100, 0.05, action_size)
             save_average_score.loc[save_average_score.index[-1] + 1] = np.array([average_score, episode, q_average])
             save_average_score.to_csv('output/' + file + '.csv')
             print('Le score moyen sur les {} derniers episode etait {} , qmoyen = {}'.format(save_models_each,
