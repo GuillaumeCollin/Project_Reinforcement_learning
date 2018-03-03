@@ -12,7 +12,7 @@ import numpy as np
 ######## A changer
 nb_episode = 4000000
 file = 'seventh_model'
-restart = True
+restart = False
 
 env = gym.make('Breakout-v0')
 state_size = env.observation_space.shape
