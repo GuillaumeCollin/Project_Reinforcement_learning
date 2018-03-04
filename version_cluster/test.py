@@ -34,10 +34,10 @@ def test(file, render, nb_iter, epsilon,action_size):
             # on cherche la meilleure action
             if np.random.rand() <= epsilon:
                 action_prediction = random.randrange(action_size)
-            else :
+            else:
                 action_prediction = model.predict(prepross_history)
-            q_average += np.average(action_prediction)
-            action = np.max(action_prediction)
+            q_average += np.max(action_prediction)
+            action = np.argmax(action_prediction)
 
             # On la fait
             for do_action in range(repeat_action):
@@ -49,7 +49,7 @@ def test(file, render, nb_iter, epsilon,action_size):
             prepross_history = next_state
             # On la sauvegarde
 
-    return average_reward/nb_iter, q_average
+    return average_reward/nb_iter, q_average/nb_iter
 
 def act(state,model):
 
