@@ -11,7 +11,7 @@ import numpy as np
 
 ######## A changer
 nb_episode = 4000000
-file = 'sixth_model'
+file = 'seventh_model'
 restart = False
 
 env = gym.make('Breakout-v0')
@@ -29,6 +29,7 @@ if __name__ == '__main__':
     load_model_from_file = file
     repeat_action = 4
     beginning_episodes = 0
+    compteur_NN_update = 0
 
     if not restart:
         # On charge le dernier modele
@@ -36,9 +37,11 @@ if __name__ == '__main__':
         # Et les resultats
         save_average_score = pd.read_csv('output/' + file + '.csv', index_col=[0])
         beginning_episodes = int(save_average_score['Episode'][save_average_score.index[-1]])
+        compteur_NN_update = int(save_average_score['Compteur_NN_update'][save_average_score.index[-1]])
         agent.update_epsilon(beginning_episodes)
     else:
         save_average_score = pd.DataFrame({'Average_score': [0],
+                                           'Compteur_NN_update': [0],
                                            'Episode': [0],
                                            'Q_average': [0]})
 
@@ -78,12 +81,13 @@ if __name__ == '__main__':
 
             if allow_replay:
                 agent.replay(batch_size)
+                compteur_NN_update += 1
         message = 'Agent has reached the end in {} steps with score {}'.format(compteur, score)
         print(message)
         if episode % save_models_each == 0 and episode != beginning_episodes:
             agent.save('output/' + file + '.h5')
-            average_score, q_average = test.test(file, False, 100, 0.05, action_size)
-            save_average_score.loc[save_average_score.index[-1] + 1] = np.array([average_score, episode, q_average])
+            average_score, q_average = test.test(file, False, 1000, 0.05, action_size)
+            save_average_score.loc[save_average_score.index[-1] + 1] = np.array([average_score, compteur_NN_update, episode, q_average])
             save_average_score.to_csv('output/' + file + '.csv')
             print('Le score moyen sur les {} derniers episode etait {} , qmoyen = {}'.format(save_models_each,
                                                                                average_score, q_average ))

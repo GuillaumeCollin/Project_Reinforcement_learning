@@ -1,6 +1,7 @@
 from keras.models import Sequential
 from keras.layers import Dense,Conv2D,Activation, Flatten
 from keras.optimizers import Adam, SGD, RMSprop
+from keras.initializers import Zeros
 import numpy as np
 import random
 from keras.models import load_model
@@ -26,14 +27,15 @@ class DQLAgent:
 
     def _build_model(self):
         model = Sequential()
-        model.add(Conv2D(16, (8,8), strides=(4,4), input_shape=(self.image_height, self.image_width, self.aggregated_images)))
+        model.add(Conv2D(16, (8, 8), strides=(4, 4), border_mode='same', input_shape=(self.image_height, self.image_width, self.aggregated_images )))
         model.add(Activation('relu'))
-        model.add(Conv2D(32,(4,4), strides=(2,2)))
+        model.add(Conv2D(32, (4, 4), strides=(2, 2), border_mode='same'))
         model.add(Activation('relu'))
         model.add(Flatten())
         model.add(Dense(256))
         model.add(Activation('relu'))
-        model.add(Dense(self.action_size, activation='linear'))
+        model.add(Dense(self.action_size, kernel_initializer='Zeros'))
+        model.add(Activation('linear'))
         model.compile(loss='mean_squared_error', optimizer=RMSprop(lr=self.learning_rate))
         return model
 
